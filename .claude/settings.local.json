@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx vite build)",
+      "Bash(del \"C:\\\\Users\\\\satya\\\\Desktop\\\\Portfolio\\\\satyajit-portfolio\\\\src\\\\assets\\\\react.svg\")",
+      "Bash(copy:*)",
+      "Bash(cmd /c copy:*)",
+      "Bash(cmd /c dir \"c:\\\\Users\\\\satya\\\\Desktop\\\\Portfolio\\\\satyajit-portfolio\\\\public\\\\resume.pdf\")",
+      "Bash(powershell -Command:*)"
+    ]
+  }
+}
