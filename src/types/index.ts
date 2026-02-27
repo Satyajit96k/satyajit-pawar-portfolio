@@ -24,9 +24,3 @@ export interface Experience {
   description: string;
   responsibilities: string[];
 }
-
-export interface SocialLink {
-  label: string;
-  url: string;
-  icon: string;
-}

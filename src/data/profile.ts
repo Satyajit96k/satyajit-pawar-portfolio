@@ -11,17 +11,17 @@ export const NAV_ITEMS: NavItem[] = [
 export const HERO = {
   greeting: 'Hi, I\'m',
   name: 'Satyajit Pawar',
-  title: 'AI Software Developer & Full Stack Engineer',
+  title: 'AI Software Developer · Vibe Coder · Full Stack Engineer',
   subtitle:
-    'I build scalable full-stack applications, AI automation workflows, and multi-agent architectures. From LLM-powered intelligent agents to production-grade React systems — I ship software that thinks.',
+    'I vibe-code full-stack apps and AI systems using Claude Code, Cursor, and cutting-edge AI tools. From multi-agent architectures to production-grade React — I ship software at the speed of thought.',
   resumeUrl: '#',
 };
 
 export const ABOUT = {
   paragraphs: [
-    'I\'m a results-driven AI Software Developer with extensive experience in Python, React, and LLM-based systems. My work sits at the intersection of software engineering and artificial intelligence — building production-ready solutions that are scalable, intelligent, and impactful.',
+    'I\'m a vibe coder and AI Software Developer who builds at the intersection of software engineering and artificial intelligence. I leverage AI-powered tools like Claude Code, Cursor, ChatGPT, and GitHub Copilot to rapidly prototype, iterate, and ship production-ready solutions.',
     'At OM Intelligence, I build full-stack web applications and contribute to the AI Leela platform, implementing Generative AI modules and machine learning-based features. I\'ve designed multi-agent architectures — Super Agents orchestrating Domain Agents and Output Agents — for complex decision-making pipelines and automated business workflows.',
-    'My technical foundation combines a strong mathematical background (M.Sc. Industrial Mathematics & Computer Applications) with hands-on expertise in API integrations, prompt engineering, workflow automation with n8n, and cloud deployment. I approach every project with production-readiness in mind.',
+    'My approach is all about speed and quality — using AI tools to 10x my development velocity while maintaining clean architecture. From prompt engineering and workflow automation with n8n to cloud deployment, I treat AI as my pair-programming partner on every project.',
   ],
   highlights: [
     { label: 'M.Sc.', value: 'Industrial Mathematics & Computer Applications — Nowrosjee Wadia College, Pune' },
@@ -71,6 +71,19 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
       'SQLite',
       'Database Design',
       'Query Optimization',
+    ],
+  },
+  {
+    title: 'AI-Powered Dev Tools',
+    skills: [
+      'Claude Code',
+      'Cursor IDE',
+      'ChatGPT',
+      'GitHub Copilot',
+      'Windsurf',
+      'V0 by Vercel',
+      'Bolt.new',
+      'Vibe Coding',
     ],
   },
   {
@@ -159,10 +172,18 @@ export const EXPERIENCES: Experience[] = [
   },
 ];
 
+export const STATS = [
+  { value: 1, suffix: '+', label: 'Year Experience' },
+  { value: 10, suffix: '+', label: 'Projects Built' },
+  { value: 5, suffix: '+', label: 'AI Systems' },
+  { value: 40, suffix: '+', label: 'Technologies' },
+];
+
 export const CONTACT = {
   heading: 'Let\'s Build Something Intelligent',
   description:
     'I\'m open to opportunities in AI development, Python development, and full-stack engineering. Whether it\'s an LLM-powered agent system or a production web app — let\'s talk.',
+  phone: '7620528355',
   email: 'satya969696k@gmail.com',
   github: 'https://github.com/Satyajit96k',
   linkedin: 'https://www.linkedin.com/in/satyajit-pawar-533145237/',
