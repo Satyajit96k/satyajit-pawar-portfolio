@@ -8,7 +8,8 @@
       "Bash(copy:*)",
       "Bash(cmd /c copy:*)",
       "Bash(cmd /c dir \"c:\\\\Users\\\\satya\\\\Desktop\\\\Portfolio\\\\satyajit-portfolio\\\\public\\\\resume.pdf\")",
-      "Bash(powershell -Command:*)"
+      "Bash(powershell -Command:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }

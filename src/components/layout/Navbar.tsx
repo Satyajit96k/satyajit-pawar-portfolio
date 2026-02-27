@@ -175,7 +175,7 @@ export default function Navbar() {
                     fontSize: '1.8rem',
                     color: '#FFFFFF',
                     letterSpacing: '-0.02em',
-                    transition: 'color 0.2s',
+                    sx: { transition: 'color 0.2s' },
                   }}
                 />
               </ListItemButton>
